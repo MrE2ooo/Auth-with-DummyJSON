@@ -1,0 +1,1 @@
+A simple web application demonstrating user authentication using the DummyJSON API. Users can log in with a username and password, and upon successful authentication, they are redirected to a home page that displays a personalized welcome message. Built with HTML, CSS, and JavaScript.
